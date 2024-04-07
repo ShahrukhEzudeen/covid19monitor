@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "578856635548",
+    "firebase_url": "https://covid19-monitor-333416-default-rtdb.firebaseio.com",
+    "project_id": "covid19-monitor-333416",
+    "storage_bucket": "covid19-monitor-333416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578856635548:android:39697fa7c63963f2de3159",
+        "android_client_info": {
+          "package_name": "com.example.flutter_covid_dashboard_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578856635548-sp6l8qgop1gout4vga78mh1ls7i7f5df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6kJce_KRbWYLoerbM0ZGKsWMwnpJdaHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578856635548-sp6l8qgop1gout4vga78mh1ls7i7f5df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
